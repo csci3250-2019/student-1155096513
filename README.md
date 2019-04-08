@@ -24,3 +24,7 @@ Skills I have so far:
 - [X] Major FYP
 - [ ] Make some fun stuff related to electronic and circuit
 - [X] Learn German
+
+### **Screenshot**
+![figure 1](cap1.JPG)
+![figure 2](cap2.JPG)
