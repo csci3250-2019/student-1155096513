@@ -17,7 +17,6 @@ Skills I have so far:
 | C++/C      | 80%  | 
 | java      | 15%      | 
 | Python | 5%      | 
-
 ### **Todo list in the summer**
 - [ ] Get an internship
 - [ ] Play with Arduino and MCU
